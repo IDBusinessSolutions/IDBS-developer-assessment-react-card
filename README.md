@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This repository contains a very simple 'Card' type component that displays useful information. During the interview you will be asked to make some modifications to this component, **so you should familiarise yourself with this code**. The code makes use of [storybook](https://storybook.js.org/) to provide a demonstration ability, you will not need to modify any of the storybook code, i.e. code underneath the [stories](./stories) directory.
+This repository contains a very simple 'Card' type component that displays useful information. During the interview you will be asked to make some modifications to this component, **so you should familiarise yourself with this code**.
+
+The code makes use of [storybook](https://storybook.js.org/) to provide a demonstration ability, you will not need to modify any of the storybook code, i.e. code underneath the [stories](./stories) directory.
 
 The only changes you will need to make are in the [src/Card](./src/Card) directory.
 
